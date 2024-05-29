@@ -12,7 +12,7 @@ The report "Mini_Project_1_Report.pdf" provides a detailed overview of the work 
 
 - Shreyansh Tiwari
 
-The key highlights of the report are:
+## The key highlights of the report are:
 
 ## Introduction
 
